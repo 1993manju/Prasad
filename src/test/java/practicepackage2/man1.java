@@ -13,17 +13,17 @@ public class man1 extends BaseClass{
 	@Test(groups = "smoke")
 	public void ma1()
 	{
-		System.out.println("hw ru ");
+		System.out.println("hii ");
 	}
 	@Test(groups = "smoke")
 	public void ma2()
 	{
-		System.out.println("i am fine ");
+		System.out.println("hii");
 	}
 	@Test(groups = "smoke")
 	public void ma3()
 	{
-		System.out.println("wau");
+		System.out.println("hii");
 	}
 
 }
